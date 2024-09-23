@@ -1,6 +1,7 @@
 import React from "react";
 import ComponentWrapper from "../Shared/ComponentWrapper";
 import Image from "next/image";
+import { GetStartedBtnYellow } from "./GetStartedBtn";
 
 const Hero = () => {
   return (
@@ -32,12 +33,7 @@ const Hero = () => {
           have the clarity you need.
         </p>
         <div className="w-full flex items-center justify-center gap-5">
-          <button className="sm:h-[56px] h-[50px] w-[190px] text-base sm:text-lg font-normal flex items-center justify-center border border-white-main bg-transparent text-white-main rounded-[50px]">
-            Book A Demo
-          </button>
-          <button className="sm:h-[56px] h-[50px] w-[190px] text-base sm:text-lg font-normal flex items-center justify-center  text-black-main bg-brand-secondary rounded-[50px]">
-            Get Started
-          </button>
+          <GetStartedBtnYellow text="Book a Call"/>
         </div>
       </div>
     </ComponentWrapper>

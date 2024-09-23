@@ -1,6 +1,7 @@
 import React from "react";
 import ComponentWrapper from "../Shared/ComponentWrapper";
 import Image from "next/image";
+import { GetStartedBtnYellow } from "./GetStartedBtn";
 
 const ExpertSupport = () => {
   return (
@@ -39,9 +40,7 @@ const ExpertSupport = () => {
               you every step of the way.
             </p>
           </div>
-          <button className="sm:h-[56px] sm:w-[175px] h-[50px] w-[160px] text-base sm:text-lg font-normal flex items-center justify-center  text-black-main bg-brand-secondary rounded-[50px]">
-            Book a Call
-          </button>
+          <GetStartedBtnYellow text="Book a call"/>
         </aside>
       </div>
     </ComponentWrapper>

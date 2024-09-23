@@ -1,6 +1,7 @@
 import React from "react";
 import ComponentWrapper from "../Shared/ComponentWrapper";
 import Image from "next/image";
+import { GetStartedBtnYellow } from "./GetStartedBtn";
 const YourBussniessInsights = () => {
   return (
     <ComponentWrapper style="lg:py-20 py-12 w-full bg-white-secondary">
@@ -20,9 +21,7 @@ const YourBussniessInsights = () => {
               alongside you every step of the way!
             </p>
           </div>
-          <button className="sm:h-[56px] sm:w-[175px] h-[50px] w-[160px] text-base sm:text-lg font-normal flex items-center justify-center  text-black-main bg-brand-secondary rounded-[50px]">
-            Learn More
-          </button>
+          <GetStartedBtnYellow text="Learn more" />
         </aside>
         <aside className="size-full h-[250px] sm:h-[400px] lg:h-[560px] relative">
           <Image

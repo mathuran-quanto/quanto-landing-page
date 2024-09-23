@@ -1,5 +1,6 @@
 import React from "react";
 import { FaCircleCheck } from "react-icons/fa6";
+import { GetStartedBtnWhite } from "../Home/GetStartedBtn";
 
 const PremiumPlan = () => {
   return (
@@ -35,9 +36,7 @@ const PremiumPlan = () => {
           </div>{" "}
         </div>
 
-        <button className="w-full mt-2 flex-shrink-0 sm:h-[72px] h-[60px] text-brand-main text-base font-bold sm:text-lg flex items-center justify-center bg-white-main rounded-[40px]">
-          Get started
-        </button>
+        <GetStartedBtnWhite/>
       </div>
     </div>
   );

@@ -43,9 +43,9 @@ const Navbar = () => {
         </div>
 
         {/* Login button for larger screens */}
-        <button className="h-[58px] w-[130px] text-black-main font-normal text-lg bg-brand-secondary hidden md:flex items-center justify-center rounded-[30px]">
+        {/* <button className="h-[58px] w-[130px] text-black-main font-normal text-lg bg-brand-secondary hidden md:flex items-center justify-center rounded-[30px]">
           Login
-        </button>
+        </button> */}
 
         {/* Menu button for mobile */}
         <button
@@ -88,12 +88,12 @@ const Navbar = () => {
               </Link>
             </li>
           ))}{" "}
-          <button
+          {/* <button
             onClick={toggleDrawer}
             className="h-[54px] w-[130px] text-black-main font-normal text-lg bg-brand-secondary flex items-center justify-center rounded-[30px]"
           >
             Login
-          </button>
+          </button> */}
         </ul>
       </div>
     </ComponentWrapper>

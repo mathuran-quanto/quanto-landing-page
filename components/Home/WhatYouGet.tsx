@@ -1,6 +1,7 @@
 import React from "react";
 import ComponentWrapper from "../Shared/ComponentWrapper";
 import * as Icons from "@/Svg/Icons";
+import { GetStartedBtnYellow } from "./GetStartedBtn";
 const WhatYouGet = () => {
   const services = [
     {
@@ -39,9 +40,7 @@ const WhatYouGet = () => {
               effortlessly. Our platform includes.
             </p>
           </div>
-          <button className="h-[50px] sm:h-[56px] w-[160px] sm:w-[176px] flex items-center justify-center flex-shrink-0 rounded-[30px] border border-white-main text-base font-normal sm:text-lg text-white-main">
-            Learn More
-          </button>
+          <GetStartedBtnYellow text="Learn more"/>
         </div>
         {/* cards here */}
         <div className="w-full grid md:grid-cols-2 lg:grid-cols-4 gap-5">
