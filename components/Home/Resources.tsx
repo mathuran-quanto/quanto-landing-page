@@ -12,7 +12,7 @@ const Resources = () => {
       image: "/Assets/Resource1.png",
     },
     {
-      title: "Chart of Accounts - Your base to bookkeeping success",
+      title: " Your Chart of Accounts - The Key to Bookkeeping Success",
       detail:
         "Save on taxes with these practical tips for maximizing your deductions.",
       time: "3 min read",

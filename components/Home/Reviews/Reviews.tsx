@@ -14,7 +14,7 @@ const Reviews = () => {
       post: "CEO, Inteli-Edge Consulting",
       image: "/Assets/Raj.png",
       review:
-        "“Quanto has completely transformed how we manage our bookkeeping for our construction projects. They streamlined everything, making it easy to track expenses and income for each project. Thanks to Quanto, we now have real-time visibility into our cash flow and profit & loss, which has helped us make more informed decisions.”",
+        "“Quanto has assisted us in managing our bookkeeping for our construction projects. Their system has streamlined our processes, making it easier to track expenses and income on a project-by-project basis. With their help, we now have real-time visibility into our cash flow and profit & loss, allowing us to make better-informed financial decisions.”",
     },
 
     {
@@ -22,7 +22,7 @@ const Reviews = () => {
       post: "CEO, Hairstrong",
       image: "/Assets/Nicole.png",
       review:
-        "“A game-changer for my e-commerce business. Quanto helped be better understand my Shopify, Amazon, and PayPal revenue streams, giving me clear visibility into my finances. It's saved me time and allowed me to focus on growing my business instead of worrying about the numbers.”",
+        "“A game-changer for my e-commerce business. Quanto helped be better understand my Shopify, Amazon, and PayPal revenue streams for tax season, giving me clear visibility into my finances. It's saved me time and allowed me to focus on growing my business instead of worrying about the numbers.”",
     },
     {
       name: "Mitchel Campbell",
@@ -36,7 +36,7 @@ const Reviews = () => {
       post: "CEO, Inteli-Edge Consulting",
       image: "/Assets/Raj.png",
       review:
-        "“Quanto has completely transformed how we manage our bookkeeping for our construction projects. They streamlined everything, making it easy to track expenses and income for each project. Thanks to Quanto, we now have real-time visibility into our cash flow and profit & loss, which has helped us make more informed decisions.”",
+        "“Quanto has assisted us in managing our bookkeeping for our construction projects. Their system has streamlined our processes, making it easier to track expenses and income on a project-by-project basis. With their help, we now have real-time visibility into our cash flow and profit & loss, allowing us to make better-informed financial decisions.”",
     },
 
     {
@@ -44,7 +44,7 @@ const Reviews = () => {
       post: "CEO, Hairstrong",
       image: "/Assets/Nicole.png",
       review:
-        "“Quanto has completely transformed how we manage our bookkeeping for our construction projects. They streamlined everything, making it easy to track expenses and income for each project. Thanks to Quanto, we now have real-time visibility into our cash flow and profit & loss, which has helped us make more informed decisions.”",
+        "“A game-changer for my e-commerce business. Quanto helped be better understand my Shopify, Amazon, and PayPal revenue streams for tax season, giving me clear visibility into my finances. It's saved me time and allowed me to focus on growing my business instead of worrying about the numbers.”",
     },
     {
       name: "Mitchel Campbell",

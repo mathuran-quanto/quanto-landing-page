@@ -43,12 +43,7 @@ const Faq = () => {
             </div>
             <div className="collapse-content">
               <p className="text-base sm:text-lg font-normal text-black-main">
-                We work with you as your dedicated bookkeeper serving your
-                monthly financial needs. We connect with your existing
-                accounting software and our internal platform handles the rest.
-                On our end, we automate your bookkeeping process by categorizing
-                your transactions tailored to your specific industry and
-                reconcile your accounts using our AI model.
+              We support a wide range of small and medium-sized businesses, including industries like real estate, construction, e-commerce, restaurants, and B2B SaaS. We also partner directly with accounting firms to help with bookkeeping needs for their clients​​.
               </p>
             </div>
           </div>
@@ -61,12 +56,8 @@ const Faq = () => {
             </div>
             <div className="collapse-content">
               <p className="text-base sm:text-lg font-normal text-black-main">
-                We work with you as your dedicated bookkeeper serving your
-                monthly financial needs. We connect with your existing
-                accounting software and our internal platform handles the rest.
-                On our end, we automate your bookkeeping process by categorizing
-                your transactions tailored to your specific industry and
-                reconcile your accounts using our AI model.
+                
+Quanto currently integrates with Quickbooks, Xero and Wave, allowing you to easily sync your financial data into our platform to streamline your bookkeeping process.
               </p>
             </div>
           </div>
@@ -79,12 +70,7 @@ const Faq = () => {
             </div>
             <div className="collapse-content">
               <p className="text-base sm:text-lg font-normal text-black-main">
-                We work with you as your dedicated bookkeeper serving your
-                monthly financial needs. We connect with your existing
-                accounting software and our internal platform handles the rest.
-                On our end, we automate your bookkeeping process by categorizing
-                your transactions tailored to your specific industry and
-                reconcile your accounts using our AI model.
+                Our bookkeeping services serve all countries and regions. Currently our tax preparation services (corporate and sales tax) support Canada and the US.
               </p>
             </div>
           </div>
