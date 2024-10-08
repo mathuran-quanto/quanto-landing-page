@@ -55,15 +55,15 @@ const Reviews = () => {
     },
   ];
   return (
-    <ComponentWrapper style="w-full lg:-mt-[200px] z-20 lg:pb-20 lg:pt-0 py-12">
+    <ComponentWrapper style="w-full  z-20 lg:pb-20 lg:pt-0 py-12">
       <div className="size-full flex flex-col items-center justify-start gap-10 lg:gap-14">
         <div className="lg:h-[560px] w-full md:h-[400px] h-[300px] md:w-[690px] relative">
-          <Image
-            fill
-            alt=""
-            className="object-cover z-20"
-            src={"/Assets/Mobile.png"}
-          />
+            <Image
+              fill
+              alt=""
+              className="object-cover rounded-[30px]"
+              src={"/Assets/Mobile.svg"}
+            />
         </div>
         <h2 className="font-poppins text-balance text-center text-black-secondary text-[44px] sm:text-[56px] font-semibold">
           Trusted by Businesses Across Canada and the U.S.
