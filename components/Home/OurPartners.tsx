@@ -16,7 +16,7 @@ const OurPartners = () => {
             Integrated with:
           </p>
         </div>
-        <div className="w-full flex flex-wrap items-center justify-between gap-4">
+        <div className="flex flex-wrap items-center gap-5">
           <div className="md:h-[71px] h-[40px] w-[180px] md:w-[350px] relative">
             <Image
               fill
@@ -42,22 +42,6 @@ const OurPartners = () => {
               alt=""
               className="object-contain grayscale"
               src={"/Assets/SageLogo.svg"}
-            />
-          </div>
-          <div className="md:h-[151px] h-[80px] w-[120px] md:w-[250px] relative">
-            <Image
-              fill
-              alt=""
-              className="object-contain"
-              src={"/Assets/Shopify.svg"}
-            />
-          </div>
-          <div className="md:h-[71px] h-[40px] w-[180px] md:w-[250px] relative">
-            <Image
-              fill
-              alt=""
-              className="object-contain"
-              src={"/Assets/Square.svg"}
             />
           </div>
         </div>
